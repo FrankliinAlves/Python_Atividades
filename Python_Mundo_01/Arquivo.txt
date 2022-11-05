@@ -1,0 +1,18 @@
+PYTHON MUNDO 01 
+
+*** Minhas atividades realizadas com base nos exercícios propostos ***
+
+Neste primeiro mundo, o curso introduz a linguagem, seus conceitos e ensina alguns recursos básicos.
+
+O Curso foi criado pelo Professor Gustavo Guanabara (Curso em vídeo) que tem uma temática bastante divertida com criação de joguinhos. esse curso é dividido em mundos para facilitar o estudo.
+
+O primeiro mundo foi pensando de forma a apresentar a linguagem.
+
+CONTEÚDO:
+
+* INTRODUÇÃO AO MUNDO DA PROGRAMAÇÃO
+* PRIMEIROS PASSOS COM O PYTHON
+* TRATANDO DADOS E FAZENDO CONTAS
+* USANDO MÓDULOS DO PYTHON
+* CONDIÇÕES EM PYTHON (if..else)
+* ADICIONANDO CORES AO PYTHON
