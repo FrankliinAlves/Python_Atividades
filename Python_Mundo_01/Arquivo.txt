@@ -1,4 +1,4 @@
-PYTHON MUNDO 01 
+>>> PYTHON MUNDO 01 
 
 *** Minhas atividades realizadas com base nos exercícios propostos ***
 
