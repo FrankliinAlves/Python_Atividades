@@ -1,6 +1,6 @@
 >>> PYTHON MUNDO 01 
 
-*** Minhas atividades realizadas com base nos exercícios propostos ***
+*** Segue na pasta Python_Mundo_01 minhas atividades realizadas com base nos exercícios propostos ***
 
 Neste primeiro mundo, o curso introduz a linguagem, seus conceitos e ensina alguns recursos básicos.
 
